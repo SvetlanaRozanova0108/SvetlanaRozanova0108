@@ -6,8 +6,8 @@
 
 - Языки: Java, SQL
 - Фреймворки: Spring, Spring Boot, Spring Cloud(Config, Eureka, Gateway), Spring Data, Spring Security, Hibernate ORM
-- Базы данных: PostgreSQL
-- Инструменты: Maven
+- Базы данных: PostgreSQL, Redis, Liquibase
+- Инструменты: Maven, Gradle
 - Контроль версий: Git
 - API/Документация: Postman, Swagger
 - Тестирование: JUnit5, Mockito
