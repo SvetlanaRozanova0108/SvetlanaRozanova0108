@@ -1,25 +1,24 @@
-Привет! Я Светлана!
+## Привет! 👋 Меня зовут Светлана, , я Java-разработчик
+## Выпускница ВШЭ(Бизнес-Информатика)'16 и Яндекс.Практикум(Java-разработчик)'25
 
-Выпускница ВШЭ(Бизнес-Информатика)'16 и Яндекс.Практикум(Java-разработчик)'25
+### Мой технологический стек 💻:
 
-💻 Мой стек:
+- **Языки**: Java, SQL
+- **Фреймворки**: Spring, Spring Boot, Spring Cloud(Config, Eureka, Gateway), Spring Data, Spring Security, Hibernate ORM
+- **Базы данных**: PostgreSQL, H2, Redis, Liquibase
+- **Сборка**: Maven, Gradle
+- **Контроль версий**: Git
+- **API/Документация**: Postman, Swagger
+- **Тестирование**: JUnit5, Mockito
+- **Интеграции**: Kafka, gRPC, Avro, Protobuf, Feign-клиенты, Circuit Breaker (Resilience4j)
+- **DevOps**: Docker, Docker Compose
+- **IDE**: IntelliJ IDEA
 
-- Языки: Java, SQL
-- Фреймворки: Spring, Spring Boot, Spring Cloud(Config, Eureka, Gateway), Spring Data, Spring Security, Hibernate ORM
-- Базы данных: PostgreSQL, Redis, Liquibase
-- Инструменты: Maven, Gradle
-- Контроль версий: Git
-- API/Документация: Postman, Swagger
-- Тестирование: JUnit5, Mockito
-- Интеграция: Kafka, gRPC, Avro, Protobuf
-- DevOps: Docker, Docker Compose
-- IDE: IntelliJ IDEA
+### Контакты для связи:
+- 📧 Email: [svetlanarozanova@live.com]
+- 📱 Telegram: [@SvetlanaRozanova0108]
 
-Контакты:
-- email: svetlanarozanova@live.com
-- Telegram: @SvetlanaRozanova0108
-
-Примеры реализованных мной проектов:
+### Примеры реализованных проектов:
 
 Filmorate - Backend для онлайн-кинотеатра. Реализован функционал оценок и отзывов пользователей, фильтра, рекомендаций, поиска.
 Стек: Java, Spring Boot, SQL, H2, JdbcTemplate, JUnit.
