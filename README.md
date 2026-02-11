@@ -34,3 +34,8 @@ Smart Home Technologies - Backend система для сбора и анали
 
 Java Plus Graduation (усовершенствование Explore With Me) — Backend афиша позволяет предложить какое-либо событие от выставки до похода в кино, и собрать компанию для участия в нём на основе интересов пользователей.
 Стек: Java, Spring Boot, SQL, PostgreSQL, JPA, Hibernate, Maven, Docker, Spring Cloud, Config Server, Eureka, Gateway.
+
+Групповой проект Backend-for-e-commerce — Backend-серверное приложение для e-commerce платформы, предоставляющее RESTful API для онлайн-магазина. Цель проекта — создать функциональную основу для интернет-магазина, позволяющую
+пользователям: просматривать каталог товаров с возможностью поиска и
+фильтрации, добавлять товары в корзину и управлять содержимым корзины, оформлять заказы и отслеживать их статус, управлять профилем пользователя, включая регистрацию и аутентификацию.
+Стек: Java, Spring Boot, SQL, PostgreSQL, Redis, Liquibase, JPA, Hibernate, Gradle, Docker, Spring Security, JUnit5, Mockito.
